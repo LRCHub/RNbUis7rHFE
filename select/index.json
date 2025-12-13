@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "LAST SUMMER SONG",
+  "base_artist": "百足",
+  "createdAt": "2025-12-13T03:35:09.148466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Summer Song",
+      "artist": "The Strange",
+      "has_synced": true,
+      "path": "select/01_Last_Summer_Song_The_Strange.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST SUMMER SONG",
+      "artist": "Mukade",
+      "has_synced": false,
+      "path": "select/02_LAST_SUMMER_SONG_Mukade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST SUMMER SONG",
+      "artist": "百足",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_SUMMER_SONG_百足.txt"
+    }
+  ]
+}
